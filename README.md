@@ -22,18 +22,18 @@ Essa é uma solução para o desafio "Front End Mentor" [QR code component chall
 
 ## Links
 
-- Solution URL: [](
+- Solution URL: [Solução](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/)3-column-preview-card-using-css-and-html-1sM-LIBliz
 - Live Site URL: [Live Site](https://falcettijr.github.io/3-column-preview-card/)
 
 ## Feito com
 
-- Semantic HTML5 markup
+- HTML5 
 - CSS 3 
-- Flexbox
+- FlexBox
 
 ## O que aprendi
 
-Nesse projeto eu treinei minha habilidades em HTML semântico e CSS3.
+Nesse projeto eu treinei minha habilidades em HTML, CSS3 e FlexBox.
 
 
 ## Author
