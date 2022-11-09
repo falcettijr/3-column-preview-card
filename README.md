@@ -18,12 +18,12 @@ Essa é uma solução para o desafio "Front End Mentor" [QR code component chall
 
 ## Screenshot
 
-![](/screenshot.png)
+![Screenshot](/screenshot.png)
 
 ## Links
 
 - Solution URL: [](
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live Site](https://falcettijr.github.io/3-column-preview-card/)
 
 ## Feito com
 
