@@ -14,7 +14,7 @@ Essa é uma solução para o desafio "Front End Mentor" [QR code component chall
 
 ## Visão Geral
 
-- Desafio proposto pelo site "Frontend Mentor" para construção de uma página estática 3 cartões de servições automotivos.
+- Desafio proposto pelo site "Frontend Mentor" para construção de uma página estática com 3 cartões de serviços automotivos.
 
 ## Screenshot
 
@@ -22,7 +22,7 @@ Essa é uma solução para o desafio "Front End Mentor" [QR code component chall
 
 ## Links
 
-- Solution URL: [Solução](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-/hub/)3-column-preview-card-using-css-and-html-1sM-LIBliz
+- Solution URL: [Solução] (https://www.frontendmentor.io/solutions/3-column-preview-card-using-css-and-html-1sM-LIBliz)
 - Live Site URL: [Live Site](https://falcettijr.github.io/3-column-preview-card/)
 
 ## Feito com
